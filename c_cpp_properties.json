@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "defines": [
+                "ARDUINO=10800"
+            ],
+            "includePath": [
+                "${workspaceRoot}",
+                "/home/hyder/.arduino15/packages/Intel/hardware/i686/1.6.7+1.0/**",
+                "/home/hyder/.arduino15/packages/Intel/tools/**",
+                "/home/hyder/arduino-1.8.8-linux64/arduino-1.8.8/hardware/tools/**",
+                "/home/hyder/arduino-1.8.8-linux64/arduino-1.8.8/libraries/**",
+                "/home/hyder/Documents/Arduino/hardware/tools/**",
+                "/home/hyder/Documents/Arduino/libraries/**",
+                "/home/hyder/.arduino15/packages/Intel/hardware/i686/1.6.7+1.0/cores/arduino/Arduino.h"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "${workspaceRoot}",
+                    "/home/hyder/.arduino15/packages/Intel/hardware/i686/1.6.7+1.0/**",
+                    "/home/hyder/.arduino15/packages/Intel/tools/**",
+                    "/home/hyder/arduino-1.8.8-linux64/arduino-1.8.8/hardware/tools/**",
+                    "/home/hyder/arduino-1.8.8-linux64/arduino-1.8.8/libraries/**",
+                    "/home/hyder/Documents/Arduino/hardware/tools/**",
+                    "/home/hyder/Documents/Arduino/libraries/**",
+                    "/home/hyder/.arduino15/packages/Intel/hardware/i686/1.6.7+1.0/cores/arduino/Arduino.h"
+                ]
+            },
+            "forcedInclude": [
+                "/home/hyder/.arduino15/packages/Intel/hardware/i686/1.6.7+1.0/cores/arduino/Arduino.h"
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
